@@ -4,7 +4,7 @@
 
 ![logo-landscape](https://github.com/user-attachments/assets/b65aeb3e-d203-486b-87d4-ffdc311cde04)
 
-Step into a twisted musical nightmare where Sprunki meets corruption. This unique mod transforms the cheerful Sprunki experience into a haunting musical journey, where glitches and distortions create an entirely new way to experience rhythm and melody.
+Step into a twisted musical nightmare where Sprunki meets corruption. Corruptbox But Sprunki transforms the cheerful Sprunki experience into a haunting musical journey, where glitches and distortions create an entirely new way to experience rhythm and melody.
 
 ## Overview
 
@@ -18,7 +18,7 @@ Corruptbox But Sprunki is an experimental mod that corrupts the beloved Sprunki 
 - **Glitch Effects:** Random visual distortions and screen tears during gameplay
 - **Hidden Features:** Secret combinations unlock special corrupted animations
 
-## Creating Music
+## Creating Music in Corruptbox But Sprunki
 
 The corruption doesn't just change appearances - it transforms the entire musical experience:
 
@@ -27,7 +27,7 @@ The corruption doesn't just change appearances - it transforms the entire musica
 3. **Trigger Effects:** Discover combinations that unleash special corrupted events
 4. **Record & Share:** Capture your dark musical creations
 
-## Frequently Asked Questions
+## Frequently Asked Questions About Corruptbox But Sprunki
 
 1. **Q: Is this mod safe to play?**
    A: Yes, the corruption is purely aesthetic and won't harm your device or other Incredibox content.
@@ -55,7 +55,11 @@ The corruption doesn't just change appearances - it transforms the entire musica
 
 ## Community
 
-Join our growing community of corrupted music creators! Share your twisted compositions, discover new combinations, and explore the darker side of Sprunki together.
+Join our growing community of Corruptbox But Sprunki creators! Share your twisted compositions, discover new combinations, and explore the darker side of Sprunki together.
+
+## Installation
+
+To get started with Corruptbox But Sprunki, simply download the mod from our official repository and follow the installation instructions provided.
 
 ---
 
